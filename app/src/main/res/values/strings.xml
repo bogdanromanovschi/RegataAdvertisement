@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Regata Advertisement</string>
+    <string name="store_address">Strada Laminorului nr.65, Targoviste Dambovita</string>
+    <string name="store_hours">Luni - Vineri: 9:00 - 18:00</string>
+    <string name="store_phone">+4 0245 221 17</string>
+    <string name="store_web">www.regata.ro</string>
+    <string name="slogan_comp">Solutions for home</string>
+</resources>

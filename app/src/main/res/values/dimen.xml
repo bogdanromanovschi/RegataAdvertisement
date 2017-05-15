@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_large">36sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="margin_text_body">20dp</dimen>
+    <dimen name="border_padding">1dp</dimen>
+    <dimen name="margin_below_element">10dp</dimen>
+</resources>
